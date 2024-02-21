@@ -20,18 +20,33 @@ Here are some ideas to get you started:
 
 ## 💻 기술 스택
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 프로그래밍 언어
 
-제가 주로 사용하는 기술 스택입니다. 이 외에도 다양한 기술을 배우고 있으며, 적절한 도구를 선택해 프로젝트의 효율성과 효과를 극대화하는 데 집중합니다.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📈 GitHub 통계
+### 프레임워크 및 라이브러리
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jisoolee11&show_icons=true&theme=tokyonight)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-이 통계는 제가 GitHub에서 활동하는 모습을 보여줍니다. 프로젝트에 기여하고, 오픈소스 커뮤니티와 소통하는 것을 즐깁니다.
+### 도구 및 서비스
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/-AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/-AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
 
 ## 🏆 백준 랭킹
 
