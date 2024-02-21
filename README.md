@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **jisoolee11/jisoolee11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,13 +29,13 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub 통계
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jisoolee11&show_icons=true&theme=tokyonight)
 
 이 통계는 제가 GitHub에서 활동하는 모습을 보여줍니다. 프로젝트에 기여하고, 오픈소스 커뮤니티와 소통하는 것을 즐깁니다.
 
 ## 🏆 백준 랭킹
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yourbojid)](https://solved.ac/yourbojid)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yourbojid)](https://solved.ac/jisoolee11)
 
 프로그래밍 문제 해결은 저에게 새로운 도전입니다. 백준에서의 활동을 통해 알고리즘과 문제 해결 능력을 키우고 있습니다.
 
