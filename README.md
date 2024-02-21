@@ -35,15 +35,12 @@ Here are some ideas to get you started:
 
 ## 🏆 백준 랭킹
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yourbojid)](https://solved.ac/jisoolee11)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jisoolee11)](https://solved.ac/jisoolee11)
 
 프로그래밍 문제 해결은 저에게 새로운 도전입니다. 백준에서의 활동을 통해 알고리즘과 문제 해결 능력을 키우고 있습니다.
 
 ## 📫 연락하기
 
-- 이메일: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourusername/)
+- 이메일: jisu6414@gmail.com
 
 저에 대해 더 알고 싶으시거나 협업을 제안하고 싶으시다면 언제든지 연락주세요!
-
-
