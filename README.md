@@ -1,4 +1,5 @@
-
+<div align="center">
+  
 <!--
 **jisoolee11/jisoolee11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -59,3 +60,5 @@ Here are some ideas to get you started:
 - 이메일: jisu6414@gmail.com
 
 저에 대해 더 알고 싶으시거나 협업을 제안하고 싶으시다면 언제든지 연락주세요!
+
+</div>
